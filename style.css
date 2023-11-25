@@ -8,3 +8,9 @@ body{
 iframe{
     float: right;
 }
+
+
+.twitchchat{
+    height: fit-content;
+    width: 380px;
+}
