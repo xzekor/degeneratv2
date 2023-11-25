@@ -6,7 +6,5 @@ body{
 }
 
 iframe{
-    height: max-content;
-    width: 380px;
     float: right;
 }
