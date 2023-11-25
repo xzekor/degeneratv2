@@ -2,4 +2,11 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(34, 33, 33);
+}
+
+iframe{
+    height: max-content;
+    width: 380px;
+    float: right;
 }
